@@ -7,6 +7,7 @@ import database as db
 import json
 
 st.set_page_config(page_title="Suwannee River Kayak Route", layout="wide")
+st.logo('assets/logo.png', size="large", link=None, icon_image=None)
 
 # Database Connection
 conn = db.create_connection()
