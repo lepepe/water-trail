@@ -1,5 +1,14 @@
 # Kayak Trip Tracker
 
+<div align="center">
+  <img 
+    width="536" 
+    height="363" 
+    alt="logo" 
+    src="https://github.com/user-attachments/assets/3d5b0af7-9fcf-43a5-9084-7fe50de655d8" 
+  />
+</div>
+
 A fun Streamlit project to help organize and track my kayak camping trips.
 
 ## Features
